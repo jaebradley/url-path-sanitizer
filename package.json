@@ -2,7 +2,12 @@
   "name": "url-path-sanitizer",
   "version": "0.0.0-development",
   "description": "Sanitizes ids from url paths",
-  "keywords": [],
+  "keywords": [
+    "url",
+    "sanitization",
+    "paths",
+    "url paths"
+  ],
   "homepage": "https://github.com/jaebradley/url-path-sanitizer#readme",
   "bugs": {
     "url": "https://github.com/jaebradley/url-path-sanitizer/issues"
