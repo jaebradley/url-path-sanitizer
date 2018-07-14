@@ -7,7 +7,6 @@ describe('sanitizeURLPath', () => {
   });
 
   it('does not change URL path if is digit but whitelisted', () => {
-
     const pathPart = '1';
     const url = `a/b/${pathPart}/d`;
     const whitelist = [pathPart];
@@ -15,7 +14,6 @@ describe('sanitizeURLPath', () => {
   });
 
   it('does change URL path if is digit and not whitelisted', () => {
-
     const url = '1/2/3/4';
     const expected = '[:id]/[:id]/[:id]/[:id]';
     expect(sanitizeURLPath({ url })).toEqual(expected);
