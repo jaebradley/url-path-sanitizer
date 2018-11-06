@@ -76,7 +76,7 @@
     "rollup-plugin-node-globals": "^1.2.0",
     "rollup-plugin-node-resolve": "^3.3.0",
     "rollup-plugin-terser": "^3.0.0",
-    "semantic-release": "^15.1.7",
+    "semantic-release": "^15.10.8",
     "travis-deploy-once": "^5.0.1"
   },
   "_id": "url-path-sanitizer@0.0.0-development",
