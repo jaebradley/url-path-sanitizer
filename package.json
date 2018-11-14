@@ -51,7 +51,7 @@
     "has-a-digit": "^1.0.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.0.0-beta.42",
+    "@babel/cli": "^7.1.5",
     "@babel/core": "^7.0.0-beta.42",
     "@babel/preset-env": "^7.0.0-beta.42",
     "@commitlint/cli": "^7.0.0",
