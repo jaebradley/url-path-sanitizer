@@ -573,15 +573,17 @@
     lodash.pick "4.4.0"
     meow "^5.0.0"
 
-"@commitlint/config-angular-type-enum@^7.0.0":
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/@commitlint/config-angular-type-enum/-/config-angular-type-enum-7.0.0.tgz#69702ba80a56a3d8bab3cc32898e496045d13323"
+"@commitlint/config-angular-type-enum@^7.3.1":
+  version "7.3.1"
+  resolved "https://registry.yarnpkg.com/@commitlint/config-angular-type-enum/-/config-angular-type-enum-7.3.1.tgz#986f9cf17cfef5567359a1e93247338b78a42490"
+  integrity sha512-0pkdUNv9nF2J94YvXFSu74gkefQhVqXmVj0ROqP9KTYLVstNsfyZHAg/h5wFxnvG0EF/0j1p7dXtutr03RfJqA==
 
-"@commitlint/config-angular@^7.0.1":
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/@commitlint/config-angular/-/config-angular-7.0.1.tgz#559db668855076fe7e845a71ed490eacb7314903"
+"@commitlint/config-angular@^7.3.1":
+  version "7.3.1"
+  resolved "https://registry.yarnpkg.com/@commitlint/config-angular/-/config-angular-7.3.1.tgz#dfc810eadb2c4e2c4c98fc65bea5bf273193f1c4"
+  integrity sha512-eJ3WNCUjX838jpB+YAUG6lU0VuJ16CXw0eIIxbG7FQYJW510nyjO17l0sKH8LQfYQT3eEksRPzP+d+b+PwsSVQ==
   dependencies:
-    "@commitlint/config-angular-type-enum" "^7.0.0"
+    "@commitlint/config-angular-type-enum" "^7.3.1"
 
 "@commitlint/ensure@^7.0.0":
   version "7.0.0"
