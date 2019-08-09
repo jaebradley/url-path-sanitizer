@@ -70,7 +70,7 @@
     "rollup-plugin-babel": "^4.0.0-beta.4",
     "rollup-plugin-babel-minify": "^5.0.0",
     "rollup-plugin-commonjs": "^9.1.0",
-    "rollup-plugin-filesize": "^4.0.0",
+    "rollup-plugin-filesize": "^6.2.0",
     "rollup-plugin-local-resolve": "^1.0.7",
     "rollup-plugin-node-builtins": "^2.1.2",
     "rollup-plugin-node-globals": "^1.2.0",
