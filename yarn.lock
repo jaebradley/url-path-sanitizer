@@ -3590,9 +3590,10 @@ har-validator@~5.0.3:
     ajv "^5.1.0"
     har-schema "^2.0.0"
 
-has-a-digit@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/has-a-digit/-/has-a-digit-1.0.0.tgz#4cb3c16452b9696919d3de7ff54f683012c3cf66"
+has-a-digit@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/has-a-digit/-/has-a-digit-1.0.1.tgz#2030638d0bae4e2c2002944086b2128e65ec1869"
+  integrity sha512-Fge0H7do3B5HIpsR5DjTA2gjXj6fDbvBHvD3ljptw3sBinhzeEJAqNwpMG4L+zrcfyOeFDdFrQ1RLdYxNBvflw==
 
 has-ansi@^2.0.0:
   version "2.0.0"
