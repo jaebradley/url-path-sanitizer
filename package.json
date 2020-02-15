@@ -48,7 +48,7 @@
     ]
   },
   "dependencies": {
-    "has-a-digit": "^1.0.0"
+    "has-a-digit": "1.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0-beta.42",
