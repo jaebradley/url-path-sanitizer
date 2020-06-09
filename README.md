@@ -1,5 +1,5 @@
 [![Greenkeeper badge](https://badges.greenkeeper.io/jaebradley/url-path-sanitizer.svg)](https://greenkeeper.io/)
-[![Build Status](https://travis-ci.org/jaebradley/url-path-sanitizer.svg?branch=master)](https://travis-ci.org/jaebradley/url-path-sanitizer)
+![URL Path Sanitizer](https://github.com/jaebradley/url-path-sanitizer/workflows/URL%20Path%20Sanitizer/badge.svg)
 [![codecov](https://codecov.io/gh/jaebradley/url-path-sanitizer/branch/master/graph/badge.svg)](https://codecov.io/gh/jaebradley/url-path-sanitizer)
 [![npm](https://img.shields.io/npm/v/url-path-sanitizer.svg)](https://www.npmjs.com/package/url-path-sanitizer)
 [![npm](https://img.shields.io/npm/dt/url-path-sanitizer.svg)](https://www.npmjs.com/package/url-path-sanitizer)
