@@ -55,7 +55,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Run Tests
-        run: npm run tests
+        run: npm run test
       - name: Codecov
         uses: codecov/codecov-action@v1
   release:
