@@ -33,7 +33,7 @@ const config = {
       format: 'es',
       globals: {
         'has-a-digit': 'hasADigit',
-      }
+      },
     },
   ],
   external: ['has-a-digit'],
